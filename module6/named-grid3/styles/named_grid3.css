@@ -11,17 +11,17 @@
 
         nav {
             grid-area: nav;
-            background-color: slateblue;
+            background-color: blue;
         }
 
         main {
             grid-area: main;
-            background-color: darkorange;
+            background-color: orange;
         }
 
         aside {
             grid-area: aside;
-            background-color: slateblue;
+            background-color: blue;
         }
 
         footer {
